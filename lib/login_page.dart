@@ -67,7 +67,7 @@ class _LoginPageState extends State<LoginPage> {
                         controller: _passwordController,
                         decoration: InputDecoration(
                             border: UnderlineInputBorder(),
-                            labelText: 'Enter the Password',
+                            labelText: 'Enter the likeexpected Password',
                             hintText: 'Password'
                         ),
                       ),
